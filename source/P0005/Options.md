@@ -11,8 +11,8 @@ Template: Razor Class Library
  
 ## Name and Path Options
 
-* Project name: P0001
-* Solution name: P0001
+* Project name: P0005
+* Solution name: P0005
 * Place solution and project in the same directory: False.
 
  
